@@ -1,6 +1,1 @@
-This is a revert test.
-This is first file v2 by Master Branch
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of c16ac86 (git revert)
+This is a revert test
